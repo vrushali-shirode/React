@@ -13,4 +13,10 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="477" y="137" key="CommitChangelistDialog2" timestamp="1597237864434">
+      <screen x="0" y="23" width="1792" height="1014" />
+    </state>
+    <state x="477" y="137" key="CommitChangelistDialog2/0.23.1792.1014@0.23.1792.1014" timestamp="1597237864434" />
+  </component>
 </project>
